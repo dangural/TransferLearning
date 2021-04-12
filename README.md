@@ -1,2 +1,2 @@
 # TransferLearning
-Used for a project in a class, I created a model to tell the difference between bees and wasp using different transfer learning techniques. 
+Used for a project in a class, I created a model to tell the difference between bees and wasp using different transfer learning techniques. The project looked at high quality vs low quality data in these models as well as comparing bees to wasp with other foreign insects as well and distinguish between the three. The model ended up achieving around 92% accuracy on over 10,000 different pictures.
